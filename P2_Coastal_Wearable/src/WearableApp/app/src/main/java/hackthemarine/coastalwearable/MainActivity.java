@@ -5,6 +5,7 @@ import android.app.Activity;
 import android.app.ListActivity;
 import android.content.Context;
 import android.content.pm.PackageManager;
+import android.graphics.drawable.Drawable;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
@@ -20,8 +21,8 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity {
 
-    private double lon = 1;
-    private double lat = 2;
+    private double easting = 368362;
+    private double northing = 073572;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -47,24 +48,28 @@ public class MainActivity extends Activity {
 
                         if(result.length > 0) {
                             ((TextView) inflated1.findViewById(R.id.beach_name)).setText(result[0].Name);
-                            ((TextView) inflated1.findViewById(R.id.beach_distance)).setText(result[0].getDistance(lon, lat) +"km");
+                            ((TextView) inflated1.findViewById(R.id.beach_distance)).setText(result[0].getDistance(easting, northing) + "km");
+
+                            inflated1.findViewById(R.id.circle).setBackground(getDrawable(result[0].Quality));
                         }
 
                         if(result.length > 1){
                             ((TextView) inflated2.findViewById(R.id.beach_distance)).setText(result[1].Name);
-                            ((TextView) inflated2.findViewById(R.id.beach_distance)).setText(result[1].getDistance(lon, lat) +"km");
+                            ((TextView) inflated2.findViewById(R.id.beach_distance)).setText(result[1].getDistance(easting, northing) +"km");
+                            inflated2.findViewById(R.id.circle).setBackground(getDrawable(result[1].Quality));
                         }else{
-                            inflated2.setVisibility(View.INVISIBLE);
+                            inflated1.setVisibility(View.INVISIBLE);
                         }
 
                         if(result.length > 2){
                             ((TextView) inflated3.findViewById(R.id.beach_name)).setText(result[2].Name);
-                            ((TextView) inflated3.findViewById(R.id.beach_distance)).setText(result[2].getDistance(lon, lat) +"km");
+                            ((TextView) inflated3.findViewById(R.id.beach_distance)).setText(result[2].getDistance(easting, northing) +"km");
+                            inflated3.findViewById(R.id.circle).setBackground(getDrawable(result[2].Quality));
                         }else{
-                            inflated2.setVisibility(View.INVISIBLE);
+                            inflated3.setVisibility(View.INVISIBLE);
                         }
                     }
-                }).execute("https://hackthemarine.azurewebsites.net/get-nearest-bathing-water/"+lon+"/"+lat);
+                }).execute("http://hackthemarine.azurewebsites.net/get-nearest-bathing-water/347405/442769");
             }
         });
 
@@ -89,6 +94,16 @@ public class MainActivity extends Activity {
         }
         locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, locationListener);
 
+    }
+
+    private Drawable getDrawable(String quality){
+        if(quality=="Excellent")
+            return getResources().getDrawable(R.drawable.shape_green_circle);
+
+        if(quality=="Poor")
+            return getResources().getDrawable(R.drawable.shape_red_circle);
+
+        return getResources().getDrawable(R.drawable.shape_gray_circle);
     }
 
     private void makeUseOfNewLocation(Location location){

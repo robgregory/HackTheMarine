@@ -21,7 +21,7 @@
     <View
         android:layout_width="10dp"
         android:layout_height="10dp"
-        android:background="@drawable/shape_green_circle"
+        android:id="@+id/circle"
         android:orientation="vertical"
         android:layout_gravity="center_vertical"/>
 
