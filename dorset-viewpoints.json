@@ -1,0 +1,460 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2016-01-16T14:25:02Z",
+    "timestamp_areas_base": "2015-12-18T10:35:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 29718324,
+  "lat": 50.6348865,
+  "lon": -2.1370877,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 30355949,
+  "lat": 50.8129042,
+  "lon": -2.4804639,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 31626030,
+  "lat": 50.6867700,
+  "lon": -2.5491998,
+  "tags": {
+    "addr:postcode": "DT2 9HY",
+    "email": "Hardymonument@nationaltrust.org.uk",
+    "name": "Hardy Monument",
+    "operator": "National Trust",
+    "phone": "+44 1297 489481",
+    "tourism": "viewpoint",
+    "website": "http://www.nationaltrust.org.uk/hardy-monument/"
+  }
+},
+{
+  "type": "node",
+  "id": 32545979,
+  "lat": 50.6716220,
+  "lon": -2.0473061,
+  "tags": {
+    "leisure": "bird_hide",
+    "name": "Harrier Hide",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 37730369,
+  "lat": 50.6775532,
+  "lon": -2.0457637,
+  "tags": {
+    "leisure": "bird_hide",
+    "name": "Avocet Hide",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 253076475,
+  "lat": 50.7577584,
+  "lon": -2.0238564,
+  "tags": {
+    "created_by": "Potlatch 0.7b",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 310936720,
+  "lat": 50.8047130,
+  "lon": -2.8329496,
+  "tags": {
+    "amenity": "parking",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 324351772,
+  "lat": 50.7618023,
+  "lon": -1.7964556,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 588165708,
+  "lat": 50.5558505,
+  "lon": -2.4425185,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 598206269,
+  "lat": 50.6410373,
+  "lon": -2.3431612,
+  "tags": {
+    "name": "Ringstead Bay",
+    "tourism": "viewpoint",
+    "website": "http://www.nationaltrust.org.uk/ringstead-bay/"
+  }
+},
+{
+  "type": "node",
+  "id": 658928177,
+  "lat": 50.5132146,
+  "lon": -2.4567059,
+  "tags": {
+    "is_in": "Dorset, England",
+    "name": "Portland Bill",
+    "tourism": "viewpoint",
+    "wikipedia": "en:Portland Bill"
+  }
+},
+{
+  "type": "node",
+  "id": 794047801,
+  "lat": 50.6948174,
+  "lon": -2.0263430,
+  "tags": {
+    "name": "Shipstal Hill",
+    "source": "survey",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1406182742,
+  "lat": 50.7071159,
+  "lon": -2.1255242,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1409582767,
+  "lat": 50.7125667,
+  "lon": -2.7721001,
+  "tags": {
+    "name": "Coast View point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1424282110,
+  "lat": 50.6864710,
+  "lon": -1.9663505,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1424282119,
+  "lat": 50.6866628,
+  "lon": -1.9694033,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1574774726,
+  "lat": 50.6295387,
+  "lon": -2.1595260,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1757466972,
+  "lat": 50.6606595,
+  "lon": -2.6184650,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1785859427,
+  "lat": 50.8071848,
+  "lon": -2.8334004,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1848205170,
+  "lat": 50.6867031,
+  "lon": -1.9678444,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2294165567,
+  "lat": 50.8526207,
+  "lon": -2.3087555,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2331530195,
+  "lat": 50.6403847,
+  "lon": -2.0547116,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2409679827,
+  "lat": 50.7680660,
+  "lon": -1.8102210,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2409679966,
+  "lat": 50.7696886,
+  "lon": -1.8105957,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2419542776,
+  "lat": 50.7533983,
+  "lon": -2.0176009,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2419542777,
+  "lat": 50.7541591,
+  "lon": -2.0168724,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2558778775,
+  "lat": 50.8077936,
+  "lon": -2.7673980,
+  "tags": {
+    "name": "Gerrard's Hill",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2723978672,
+  "lat": 50.7222041,
+  "lon": -2.0513789,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2723978719,
+  "lat": 50.7232569,
+  "lon": -2.0532672,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2723978728,
+  "lat": 50.7258820,
+  "lon": -2.0534710,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2723978767,
+  "lat": 50.7262046,
+  "lon": -2.0560352,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2723978808,
+  "lat": 50.7210732,
+  "lon": -2.0571902,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2723978811,
+  "lat": 50.7186177,
+  "lon": -2.0549409,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2723978846,
+  "lat": 50.7247240,
+  "lon": -2.0579235,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2723978890,
+  "lat": 50.7241535,
+  "lon": -2.0518510,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2963303932,
+  "lat": 50.6740340,
+  "lon": -2.6237464,
+  "tags": {
+    "name": "Beacon",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3056975105,
+  "lat": 50.6219642,
+  "lon": -2.2757522,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3573033598,
+  "lat": 50.5932725,
+  "lon": -2.4657211,
+  "tags": {
+    "description": "Great views over the harbour towards Portland along this stretch towards Sandsford Castle.",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "way",
+  "id": 225307551,
+  "nodes": [
+    2341024209,
+    2341024211,
+    2341024210,
+    1601869895,
+    2341024209
+  ],
+  "tags": {
+    "building": "yes",
+    "leisure": "bird_hide",
+    "name": "Dartford Hide",
+    "source": "bing",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "way",
+  "id": 368545719,
+  "nodes": [
+    3724060408,
+    3724060409,
+    3724060410,
+    3724060411,
+    3724060408
+  ],
+  "tags": {
+    "building": "yes",
+    "direction": "W",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3724060408,
+  "lat": 50.6082868,
+  "lon": -2.4632271
+},
+{
+  "type": "node",
+  "id": 3724060409,
+  "lat": 50.6082791,
+  "lon": -2.4631304
+},
+{
+  "type": "node",
+  "id": 3724060410,
+  "lat": 50.6082037,
+  "lon": -2.4631452
+},
+{
+  "type": "node",
+  "id": 3724060411,
+  "lat": 50.6082114,
+  "lon": -2.4632420
+},
+{
+  "type": "node",
+  "id": 1601869895,
+  "lat": 50.6689546,
+  "lon": -2.0511083
+},
+{
+  "type": "node",
+  "id": 2341024209,
+  "lat": 50.6689624,
+  "lon": -2.0511357
+},
+{
+  "type": "node",
+  "id": 2341024210,
+  "lat": 50.6689805,
+  "lon": -2.0510900
+},
+{
+  "type": "node",
+  "id": 2341024211,
+  "lat": 50.6689883,
+  "lon": -2.0511173
+}
+
+  ]
+}
