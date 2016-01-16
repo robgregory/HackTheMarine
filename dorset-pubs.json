@@ -1,0 +1,2649 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2016-01-16T14:50:02Z",
+    "timestamp_areas_base": "2015-12-18T10:35:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 19809385,
+  "lat": 50.8195042,
+  "lon": -1.9793208,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Stocks Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 19826194,
+  "lat": 50.8665906,
+  "lon": -1.9462430,
+  "tags": {
+    "amenity": "pub",
+    "name": "Drusilla's Inn",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 29093704,
+  "lat": 50.7358758,
+  "lon": -2.0563645,
+  "tags": {
+    "amenity": "pub",
+    "name": "Saint Peters Finger",
+    "surveillance": "outdoor"
+  }
+},
+{
+  "type": "node",
+  "id": 29138463,
+  "lat": 50.8413199,
+  "lon": -2.0972947,
+  "tags": {
+    "amenity": "pub",
+    "name": "The True Lovers Knot"
+  }
+},
+{
+  "type": "node",
+  "id": 29169837,
+  "lat": 50.7333167,
+  "lon": -2.0654488,
+  "tags": {
+    "amenity": "pub",
+    "name": "Bakers Arms",
+    "surveillance": "outdoor"
+  }
+},
+{
+  "type": "node",
+  "id": 29434014,
+  "lat": 50.7996357,
+  "lon": -1.9371424,
+  "tags": {
+    "amenity": "pub",
+    "name": "Fox and Hounds"
+  }
+},
+{
+  "type": "node",
+  "id": 29687538,
+  "lat": 50.6377540,
+  "lon": -2.0576491,
+  "tags": {
+    "amenity": "pub",
+    "created_by": "JOSM",
+    "name": "The Fox"
+  }
+},
+{
+  "type": "node",
+  "id": 29718211,
+  "lat": 50.6860805,
+  "lon": -2.1101021,
+  "tags": {
+    "amenity": "pub",
+    "created_by": "xybot",
+    "name": "Red Lion Hotel",
+    "postal_code": "BH20 4AB"
+  }
+},
+{
+  "type": "node",
+  "id": 29925934,
+  "lat": 50.7082313,
+  "lon": -2.6403590,
+  "tags": {
+    "amenity": "pub",
+    "name": "The White Horse Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 29959617,
+  "lat": 51.0034985,
+  "lon": -2.1985789,
+  "tags": {
+    "amenity": "pub",
+    "name": "Ye Old Two Brewers Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 30066698,
+  "lat": 50.8010267,
+  "lon": -1.8910734,
+  "tags": {
+    "amenity": "pub",
+    "name": "White Heather"
+  }
+},
+{
+  "type": "node",
+  "id": 30357975,
+  "lat": 50.8281157,
+  "lon": -2.3338669,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Fox at Ansty"
+  }
+},
+{
+  "type": "node",
+  "id": 30411619,
+  "lat": 50.8516839,
+  "lon": -2.7252773,
+  "tags": {
+    "amenity": "pub",
+    "created_by": "JOSM",
+    "name": "Winyards Gap"
+  }
+},
+{
+  "type": "node",
+  "id": 43657888,
+  "lat": 50.6571568,
+  "lon": -2.0883670,
+  "tags": {
+    "amenity": "pub",
+    "name": "Half Way Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 253257535,
+  "lat": 50.7785366,
+  "lon": -2.8303958,
+  "tags": {
+    "amenity": "pub",
+    "created_by": "JOSM",
+    "name": "Shave Cross Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 256793481,
+  "lat": 50.9265722,
+  "lon": -2.5875362,
+  "tags": {
+    "amenity": "pub",
+    "created_by": "Potlatch 0.10f",
+    "name": "Rose and Crown"
+  }
+},
+{
+  "type": "node",
+  "id": 259759616,
+  "lat": 50.7208825,
+  "lon": -2.0860469,
+  "tags": {
+    "amenity": "pub",
+    "name": "Clay Pipe Inn",
+    "surveillance": "outdoor,public"
+  }
+},
+{
+  "type": "node",
+  "id": 264102648,
+  "lat": 50.8025170,
+  "lon": -2.0089604,
+  "tags": {
+    "amenity": "pub",
+    "created_by": "JOSM",
+    "name": "Vine Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 265518418,
+  "lat": 50.8039854,
+  "lon": -2.7767729,
+  "tags": {
+    "amenity": "pub",
+    "name": "New Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 270120257,
+  "lat": 50.6369619,
+  "lon": -2.2018932,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Weld Arms",
+    "phone": "+44 01929400211",
+    "website": "www.weldarms.co.uk"
+  }
+},
+{
+  "type": "node",
+  "id": 270834987,
+  "lat": 50.7064912,
+  "lon": -2.1395094,
+  "tags": {
+    "amenity": "pub",
+    "created_by": "Potlatch 0.9c",
+    "name": "The Silent Woman"
+  }
+},
+{
+  "type": "node",
+  "id": 271234358,
+  "lat": 50.7228672,
+  "lon": -2.7569905,
+  "tags": {
+    "amenity": "pub",
+    "created_by": "Potlatch 0.9c",
+    "name": "Crown Inn",
+    "postal_code": "DT6 4AX"
+  }
+},
+{
+  "type": "node",
+  "id": 275397212,
+  "lat": 50.7149988,
+  "lon": -2.4393171,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Royal Oak",
+    "operator": "Wetherspoons",
+    "surveillance": "indoor"
+  }
+},
+{
+  "type": "node",
+  "id": 278860854,
+  "lat": 50.9131399,
+  "lon": -2.2011564,
+  "tags": {
+    "amenity": "pub",
+    "created_by": "JOSM",
+    "name": "Cricketers"
+  }
+},
+{
+  "type": "node",
+  "id": 278861026,
+  "lat": 50.6777991,
+  "lon": -2.1090838,
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:postcode": "BH20 5AB",
+    "addr:street": "Corfe Road",
+    "amenity": "pub",
+    "food": "yes",
+    "name": "The Kings Arms",
+    "real_ale": "yes",
+    "website": "http://thekingsarms-stoborough.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 306208351,
+  "lat": 50.7427696,
+  "lon": -1.8003175,
+  "tags": {
+    "amenity": "pub",
+    "food": "yes",
+    "name": "The Stourvale",
+    "operator": "Marston's"
+  }
+},
+{
+  "type": "node",
+  "id": 322060557,
+  "lat": 50.7398206,
+  "lon": -2.7655466,
+  "tags": {
+    "amenity": "pub",
+    "name": "Oddfellows Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 332510923,
+  "lat": 50.6862075,
+  "lon": -2.1093506,
+  "tags": {
+    "amenity": "pub",
+    "created_by": "Potlatch 0.10f",
+    "name": "The Duke of Wellington"
+  }
+},
+{
+  "type": "node",
+  "id": 332510966,
+  "lat": 50.6875812,
+  "lon": -2.1109753,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Kings Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 340366963,
+  "lat": 50.7225620,
+  "lon": -2.8234707,
+  "tags": {
+    "amenity": "pub",
+    "food": "yes",
+    "name": "Anchor Inn",
+    "real_ale": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 340367081,
+  "lat": 50.7222828,
+  "lon": -2.7817382,
+  "tags": {
+    "amenity": "pub",
+    "name": "New Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 367075930,
+  "lat": 50.7751687,
+  "lon": -2.4731746,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Smith's Arms",
+    "note": "From the sign: The Smith's Arms - The Smallest Public House in England, originally a blacksmith's shop King Charles II stopped here to have his horse shod, he asked for a drink & the Blacksmith replied 'I have no license Sire', so there & then the king g"
+  }
+},
+{
+  "type": "node",
+  "id": 373798538,
+  "lat": 50.6357759,
+  "lon": -2.0542443,
+  "tags": {
+    "amenity": "pub",
+    "created_by": "JOSM",
+    "name": "The Castle Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 385349551,
+  "lat": 50.7423938,
+  "lon": -2.4968234,
+  "tags": {
+    "amenity": "pub",
+    "name": "Saxon Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 412502285,
+  "lat": 50.7749652,
+  "lon": -2.1444070,
+  "tags": {
+    "amenity": "pub",
+    "name": "Botany Bay Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 419843635,
+  "lat": 50.6183307,
+  "lon": -1.9584767,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Crows Nest"
+  }
+},
+{
+  "type": "node",
+  "id": 430652742,
+  "lat": 50.7150667,
+  "lon": -2.4386090,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Old Ship Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 430652746,
+  "lat": 50.7157625,
+  "lon": -2.4348228,
+  "tags": {
+    "amenity": "pub",
+    "name": "Borough Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 430653873,
+  "lat": 50.7779653,
+  "lon": -2.2830655,
+  "tags": {
+    "amenity": "pub",
+    "name": "Royal Oak"
+  }
+},
+{
+  "type": "node",
+  "id": 430653874,
+  "lat": 50.8005471,
+  "lon": -2.2324279,
+  "tags": {
+    "amenity": "pub",
+    "name": "Milton Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 430659250,
+  "lat": 50.8844741,
+  "lon": -2.1981584,
+  "tags": {
+    "amenity": "pub",
+    "name": "White Horse"
+  }
+},
+{
+  "type": "node",
+  "id": 430659251,
+  "lat": 50.8795995,
+  "lon": -2.1354984,
+  "tags": {
+    "alt_name": "\"Son of the Dear One\" A",
+    "amenity": "pub",
+    "name": "Farquharson Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 432636611,
+  "lat": 50.7982300,
+  "lon": -1.9856858,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Rising Sun"
+  }
+},
+{
+  "type": "node",
+  "id": 432637978,
+  "lat": 50.8001163,
+  "lon": -1.9919693,
+  "tags": {
+    "amenity": "pub",
+    "brewery": "Wadworth",
+    "name": "The Green Man"
+  }
+},
+{
+  "type": "node",
+  "id": 439205980,
+  "lat": 50.9436856,
+  "lon": -2.5235991,
+  "tags": {
+    "amenity": "pub",
+    "name": "Skippers"
+  }
+},
+{
+  "type": "node",
+  "id": 471968639,
+  "lat": 50.8768692,
+  "lon": -1.9774205,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Horton Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 471969022,
+  "lat": 50.8792340,
+  "lon": -2.0810038,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Langton Arms",
+    "website": "www.thelangtonarms.co.uk",
+    "wifi": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 501567531,
+  "lat": 50.9323147,
+  "lon": -2.4056316,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Trooper"
+  }
+},
+{
+  "type": "node",
+  "id": 509085222,
+  "lat": 50.9596660,
+  "lon": -2.3783399,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Crown Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 509085593,
+  "lat": 50.9442008,
+  "lon": -2.2668903,
+  "tags": {
+    "amenity": "pub",
+    "food": "yes",
+    "name": "The Plough"
+  }
+},
+{
+  "type": "node",
+  "id": 509085687,
+  "lat": 50.9210553,
+  "lon": -2.3061255,
+  "tags": {
+    "amenity": "pub",
+    "food": "yes",
+    "name": "The Bull"
+  }
+},
+{
+  "type": "node",
+  "id": 509085890,
+  "lat": 50.8933378,
+  "lon": -2.3943866,
+  "tags": {
+    "amenity": "pub",
+    "food": "yes",
+    "name": "The Green Man"
+  }
+},
+{
+  "type": "node",
+  "id": 509293749,
+  "lat": 50.9676875,
+  "lon": -2.3108572,
+  "tags": {
+    "amenity": "pub",
+    "food": "yes",
+    "name": "Crown Inn at Marnhull"
+  }
+},
+{
+  "type": "node",
+  "id": 534331188,
+  "lat": 50.9463877,
+  "lon": -2.5156300,
+  "tags": {
+    "addr:postcode": "DT9 3LN",
+    "addr:street": "Half Moon Street",
+    "amenity": "pub",
+    "name": "Half Moon Inn",
+    "source:addr": "FHRS Open Data"
+  }
+},
+{
+  "type": "node",
+  "id": 564941631,
+  "lat": 50.8104789,
+  "lon": -1.9752396,
+  "tags": {
+    "amenity": "pub",
+    "name": "Horns Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 600067990,
+  "lat": 50.8982649,
+  "lon": -2.2768928,
+  "tags": {
+    "amenity": "pub",
+    "food": "yes",
+    "name": "The Royal Oak"
+  }
+},
+{
+  "type": "node",
+  "id": 622182324,
+  "lat": 50.7371074,
+  "lon": -2.6688581,
+  "tags": {
+    "amenity": "pub",
+    "name": "Spyway Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 624787809,
+  "lat": 50.7659550,
+  "lon": -2.7735291,
+  "tags": {
+    "amenity": "pub",
+    "name": "Anchor Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 634440787,
+  "lat": 50.6405049,
+  "lon": -2.5464820,
+  "tags": {
+    "amenity": "pub",
+    "name": "Elm Tree Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 654537913,
+  "lat": 50.6107582,
+  "lon": -2.4868396,
+  "tags": {
+    "amenity": "pub",
+    "name": "Maquis of Granby"
+  }
+},
+{
+  "type": "node",
+  "id": 654538239,
+  "lat": 50.6066252,
+  "lon": -2.4501251,
+  "tags": {
+    "amenity": "pub",
+    "name": "Nothe Tavern"
+  }
+},
+{
+  "type": "node",
+  "id": 655343045,
+  "lat": 50.6607648,
+  "lon": -2.4745444,
+  "tags": {
+    "amenity": "pub",
+    "name": "Riverhouse Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 655343100,
+  "lat": 50.6633415,
+  "lon": -2.4684872,
+  "tags": {
+    "amenity": "pub",
+    "name": "Old Ship Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 658928261,
+  "lat": 50.5292066,
+  "lon": -2.4418256,
+  "tags": {
+    "amenity": "pub",
+    "name": "Eight Kings"
+  }
+},
+{
+  "type": "node",
+  "id": 658928448,
+  "lat": 50.5466331,
+  "lon": -2.4420383,
+  "tags": {
+    "amenity": "pub",
+    "name": "George Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 658928506,
+  "lat": 50.5448168,
+  "lon": -2.4340289,
+  "tags": {
+    "amenity": "pub",
+    "name": "Corner House Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 658928612,
+  "lat": 50.5631774,
+  "lon": -2.4499809,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Little Ship"
+  }
+},
+{
+  "type": "node",
+  "id": 658928627,
+  "lat": 50.5605399,
+  "lon": -2.4485428,
+  "tags": {
+    "amenity": "pub",
+    "name": "Cove House Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 671802012,
+  "lat": 50.8150512,
+  "lon": -2.0891612,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Anchor"
+  }
+},
+{
+  "type": "node",
+  "id": 685980992,
+  "lat": 50.8087292,
+  "lon": -2.4768761,
+  "tags": {
+    "amenity": "pub",
+    "name": "The New Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 685980993,
+  "lat": 50.8088614,
+  "lon": -2.4759669,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Giant Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 685980999,
+  "lat": 50.8091535,
+  "lon": -2.4754665,
+  "tags": {
+    "amenity": "pub",
+    "name": "Royal Oak"
+  }
+},
+{
+  "type": "node",
+  "id": 687321809,
+  "lat": 50.7333251,
+  "lon": -2.7577867,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Greyhound Inn",
+    "operator": "JD Wetherspoon"
+  }
+},
+{
+  "type": "node",
+  "id": 702386301,
+  "lat": 50.9835027,
+  "lon": -2.5676316,
+  "tags": {
+    "amenity": "pub",
+    "name": "White Post"
+  }
+},
+{
+  "type": "node",
+  "id": 702386493,
+  "lat": 50.9638673,
+  "lon": -2.5848289,
+  "tags": {
+    "amenity": "pub",
+    "name": "Rose and Crown"
+  }
+},
+{
+  "type": "node",
+  "id": 706682350,
+  "lat": 50.9354144,
+  "lon": -2.0601122,
+  "tags": {
+    "alt_name": "The Museum",
+    "amenity": "pub",
+    "name": "The Museum Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 722671419,
+  "lat": 50.8439053,
+  "lon": -2.4437775,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Gaggle of Geese"
+  }
+},
+{
+  "type": "node",
+  "id": 775946996,
+  "lat": 50.9120958,
+  "lon": -1.8408605,
+  "tags": {
+    "amenity": "pub",
+    "name": "Churchill Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 842145088,
+  "lat": 50.7338891,
+  "lon": -1.7759425,
+  "tags": {
+    "amenity": "pub",
+    "name": "Ye Olde George Inn",
+    "source": "local_knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 864590736,
+  "lat": 51.0020980,
+  "lon": -2.3079856,
+  "tags": {
+    "accommodation": "yes",
+    "amenity": "pub",
+    "food": "yes",
+    "name": "The Ship Inn",
+    "source": "local_knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 870987181,
+  "lat": 51.0073949,
+  "lon": -2.2680670,
+  "tags": {
+    "amenity": "pub",
+    "food": "yes",
+    "name": "The Kings Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 875585231,
+  "lat": 50.8001572,
+  "lon": -1.9883569,
+  "tags": {
+    "amenity": "pub",
+    "name": "King's Head"
+  }
+},
+{
+  "type": "node",
+  "id": 913884656,
+  "lat": 50.8188250,
+  "lon": -1.8586539,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Woodman"
+  }
+},
+{
+  "type": "node",
+  "id": 927353899,
+  "lat": 51.0058094,
+  "lon": -2.1965844,
+  "tags": {
+    "addr:housenumber": "23",
+    "addr:postcode": "SP7 8JE",
+    "addr:street": "High Street",
+    "amenity": "pub",
+    "email": "mitre@youngs.co.uk",
+    "name": "The Mitre",
+    "phone": "+44 1747 853002",
+    "website": "http://www.youngs.co.uk/pubs/mitre"
+  }
+},
+{
+  "type": "node",
+  "id": 927353917,
+  "lat": 51.0068633,
+  "lon": -2.1987597,
+  "tags": {
+    "addr:housenumber": "24",
+    "addr:postcode": "SP7 8JZ",
+    "addr:street": "Bleke Street",
+    "amenity": "pub",
+    "name": "The Ship Inn",
+    "phone": "+44 1747 853219",
+    "website": "http://www.shipinnfreehouse.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 931890240,
+  "lat": 50.7671507,
+  "lon": -2.0195386,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Dorset Soldier"
+  }
+},
+{
+  "type": "node",
+  "id": 940891161,
+  "lat": 50.9264365,
+  "lon": -2.3048765,
+  "tags": {
+    "amenity": "pub",
+    "food": "yes",
+    "name": "Swan Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 958169478,
+  "lat": 50.7564629,
+  "lon": -2.0372600,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Holme Bush"
+  }
+},
+{
+  "type": "node",
+  "id": 962284548,
+  "lat": 50.9445333,
+  "lon": -2.3059349,
+  "tags": {
+    "amenity": "pub",
+    "name": "The White Horse"
+  }
+},
+{
+  "type": "node",
+  "id": 968832739,
+  "lat": 50.9742985,
+  "lon": -2.3243650,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Blackmore Vale Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 988854174,
+  "lat": 50.8688018,
+  "lon": -2.3029180,
+  "tags": {
+    "amenity": "pub",
+    "name": "Crown Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 988948034,
+  "lat": 50.8763373,
+  "lon": -2.4174054,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Halsey Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 1006142807,
+  "lat": 50.9175296,
+  "lon": -2.2787030,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Fiddleford Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1111957389,
+  "lat": 51.0375085,
+  "lon": -2.2917951,
+  "tags": {
+    "addr:street": "Lydfords Lane",
+    "amenity": "pub",
+    "name": "The Buffalo"
+  }
+},
+{
+  "type": "node",
+  "id": 1139662360,
+  "lat": 51.0109452,
+  "lon": -2.2803635,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Crown Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1147981098,
+  "lat": 51.0389990,
+  "lon": -2.2259338,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Coppleridge Inn",
+    "website": "http://www.coppleridge.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1157490190,
+  "lat": 50.8752368,
+  "lon": -1.8778789,
+  "tags": {
+    "amenity": "pub",
+    "name": "Monmouth Ash"
+  }
+},
+{
+  "type": "node",
+  "id": 1157490191,
+  "lat": 50.8762598,
+  "lon": -1.8748282,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Three Swans"
+  }
+},
+{
+  "type": "node",
+  "id": 1157490192,
+  "lat": 50.8832241,
+  "lon": -1.8913007,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Albion Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1180411705,
+  "lat": 50.8057342,
+  "lon": -1.9765997,
+  "tags": {
+    "amenity": "pub",
+    "name": "Colehill Sports & Social Club"
+  }
+},
+{
+  "type": "node",
+  "id": 1180418155,
+  "lat": 50.7998303,
+  "lon": -1.9882646,
+  "tags": {
+    "amenity": "pub",
+    "name": "Oddfellows"
+  }
+},
+{
+  "type": "node",
+  "id": 1180418720,
+  "lat": 50.8009133,
+  "lon": -1.9867277,
+  "tags": {
+    "amenity": "pub",
+    "name": "Olive Branch"
+  }
+},
+{
+  "type": "node",
+  "id": 1180418977,
+  "lat": 50.7985145,
+  "lon": -1.9847348,
+  "tags": {
+    "amenity": "pub",
+    "name": "Cricketers"
+  }
+},
+{
+  "type": "node",
+  "id": 1180419428,
+  "lat": 50.7993469,
+  "lon": -1.9890623,
+  "tags": {
+    "amenity": "pub",
+    "name": "White Hart"
+  }
+},
+{
+  "type": "node",
+  "id": 1180433634,
+  "lat": 50.7997470,
+  "lon": -1.9876944,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Albion Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1180434697,
+  "lat": 50.7988180,
+  "lon": -1.9870417,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Bell"
+  }
+},
+{
+  "type": "node",
+  "id": 1184390923,
+  "lat": 50.8203673,
+  "lon": -1.9561457,
+  "tags": {
+    "amenity": "pub",
+    "name": "Barley Mow"
+  }
+},
+{
+  "type": "node",
+  "id": 1184394343,
+  "lat": 50.7949505,
+  "lon": -1.9809836,
+  "tags": {
+    "amenity": "pub",
+    "name": "Coach and Horses"
+  }
+},
+{
+  "type": "node",
+  "id": 1209266719,
+  "lat": 50.7393652,
+  "lon": -2.8994455,
+  "tags": {
+    "amenity": "pub",
+    "name": "The George"
+  }
+},
+{
+  "type": "node",
+  "id": 1209266895,
+  "lat": 50.7384622,
+  "lon": -2.9035547,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Royal Oak"
+  }
+},
+{
+  "type": "node",
+  "id": 1215539259,
+  "lat": 51.0204232,
+  "lon": -2.3484559,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Stapleton Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 1217733207,
+  "lat": 50.7209406,
+  "lon": -2.9389552,
+  "tags": {
+    "amenity": "pub",
+    "name": "Cobb Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 1217734634,
+  "lat": 50.7214890,
+  "lon": -2.9385718,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Royal Standard"
+  }
+},
+{
+  "type": "node",
+  "id": 1217734636,
+  "lat": 50.7212784,
+  "lon": -2.9387086,
+  "tags": {
+    "amenity": "pub",
+    "name": "Harbour Inn",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1217737578,
+  "lat": 50.7246451,
+  "lon": -2.9329235,
+  "tags": {
+    "amenity": "pub",
+    "name": "Rock Point Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1217737579,
+  "lat": 50.7247681,
+  "lon": -2.9330356,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Pilot Boat Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1217739684,
+  "lat": 50.7247525,
+  "lon": -2.9343002,
+  "tags": {
+    "accommodation": "yes",
+    "amenity": "pub",
+    "name": "The Royal Lion"
+  }
+},
+{
+  "type": "node",
+  "id": 1217741474,
+  "lat": 50.7250634,
+  "lon": -2.9363910,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Naval Volunteer"
+  }
+},
+{
+  "type": "node",
+  "id": 1217741475,
+  "lat": 50.7266866,
+  "lon": -2.9393683,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Nags Head"
+  }
+},
+{
+  "type": "node",
+  "id": 1245615162,
+  "lat": 50.6076637,
+  "lon": -2.4564022,
+  "tags": {
+    "amenity": "pub",
+    "name": "Sailors Return"
+  }
+},
+{
+  "type": "node",
+  "id": 1253984447,
+  "lat": 50.6598271,
+  "lon": -2.4680671,
+  "tags": {
+    "addr:housenumber": "700",
+    "addr:postcode": "DT3 5LA",
+    "addr:street": "Dorchester Road",
+    "amenity": "pub",
+    "name": "The Royal Standard Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1257693564,
+  "lat": 50.8831289,
+  "lon": -1.8768241,
+  "tags": {
+    "addr:city": "Verwood",
+    "addr:housenumber": "17",
+    "addr:postcode": "BH31 7PD",
+    "addr:street": "Moorlands Rd",
+    "amenity": "pub",
+    "name": "The Hideaway"
+  }
+},
+{
+  "type": "node",
+  "id": 1374889492,
+  "lat": 50.5514496,
+  "lon": -2.4284672,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Clifton",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1425247571,
+  "lat": 51.0070439,
+  "lon": -2.1982442,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Kings Arms",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1461167915,
+  "lat": 50.7955843,
+  "lon": -2.0740776,
+  "tags": {
+    "amenity": "pub",
+    "name": "Churchill Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 1461195165,
+  "lat": 50.8026874,
+  "lon": -2.0707275,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Red Lion"
+  }
+},
+{
+  "type": "node",
+  "id": 1461195166,
+  "lat": 50.7981951,
+  "lon": -2.0844631,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Black Horse"
+  }
+},
+{
+  "type": "node",
+  "id": 1464148122,
+  "lat": 50.8282882,
+  "lon": -1.8385882,
+  "tags": {
+    "addr:housename": "St Leonards Hotel",
+    "addr:postcode": "BH24 2NP",
+    "addr:street": "Ringwood Road",
+    "amenity": "pub",
+    "name": "St Leonards Hotel",
+    "website": "http://www.oldenglishinns.co.uk/ringwood/",
+    "wifi": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1516040495,
+  "lat": 50.7242500,
+  "lon": -1.7417863,
+  "tags": {
+    "amenity": "pub",
+    "name": "Haven House Inn",
+    "opening_hours": "Mo-Sa 11:30-23:00; Su 11:00-23:00",
+    "operator": "Chef & Brewer"
+  }
+},
+{
+  "type": "node",
+  "id": 1530001187,
+  "lat": 50.7653791,
+  "lon": -1.7655317,
+  "tags": {
+    "addr:city": "Christchurch",
+    "addr:postcode": "BH23 7AN",
+    "addr:street": "Burley Road",
+    "amenity": "pub",
+    "name": "The Lamb Inn",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "operator": "Free House",
+    "website": "http://lambwinkton.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 1585902006,
+  "lat": 50.8557132,
+  "lon": -2.1666796,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Crown Hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1588863524,
+  "lat": 50.9452115,
+  "lon": -2.5161692,
+  "tags": {
+    "addr:postcode": "DT9 3NS",
+    "addr:street": "Cooks Lane",
+    "amenity": "pub",
+    "fhrs:id": "318974",
+    "name": "Digby Tap",
+    "source:addr": "FHRS Open Data"
+  }
+},
+{
+  "type": "node",
+  "id": 1593557063,
+  "lat": 50.6058358,
+  "lon": -2.4522343,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Red Lion"
+  }
+},
+{
+  "type": "node",
+  "id": 1593557068,
+  "lat": 50.6051690,
+  "lon": -2.4599105,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Rodwell"
+  }
+},
+{
+  "type": "node",
+  "id": 1593557184,
+  "lat": 50.6060158,
+  "lon": -2.4556307,
+  "tags": {
+    "alt_name": "The Chapelhay Tavern",
+    "amenity": "pub",
+    "fixme": "pub possibly closed",
+    "name": "Chapelhay Tavern"
+  }
+},
+{
+  "type": "node",
+  "id": 1593557204,
+  "lat": 50.6062834,
+  "lon": -2.4530342,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Old Rooms Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1593557216,
+  "lat": 50.6063347,
+  "lon": -2.4599367,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Belvidere Inn",
+    "real_ale": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1594024410,
+  "lat": 50.6171245,
+  "lon": -2.4554735,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Brownlow"
+  }
+},
+{
+  "type": "node",
+  "id": 1594041170,
+  "lat": 50.6149736,
+  "lon": -2.4537299,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Real Pie Pub",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1594041177,
+  "lat": 50.6144216,
+  "lon": -2.4547012,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Dolphin"
+  }
+},
+{
+  "type": "node",
+  "id": 1594041197,
+  "lat": 50.6131183,
+  "lon": -2.4552696,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Star"
+  }
+},
+{
+  "type": "node",
+  "id": 1594041208,
+  "lat": 50.6138293,
+  "lon": -2.4549480,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Prince Of Wales"
+  }
+},
+{
+  "type": "node",
+  "id": 1594041213,
+  "lat": 50.6148031,
+  "lon": -2.4538966,
+  "tags": {
+    "amenity": "pub",
+    "name": "Tides Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1594041242,
+  "lat": 50.6139654,
+  "lon": -2.4548622,
+  "tags": {
+    "amenity": "pub",
+    "name": "Duke Of Albany"
+  }
+},
+{
+  "type": "node",
+  "id": 1594041255,
+  "lat": 50.6152258,
+  "lon": -2.4535923,
+  "tags": {
+    "amenity": "pub",
+    "name": "Railway Tavern",
+    "real_ale": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1594041295,
+  "lat": 50.6147415,
+  "lon": -2.4545940,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Queens Hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1594408598,
+  "lat": 50.6075714,
+  "lon": -2.4550690,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Rendevous"
+  }
+},
+{
+  "type": "node",
+  "id": 1594408659,
+  "lat": 50.6075503,
+  "lon": -2.4548544,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Royal Oak"
+  }
+},
+{
+  "type": "node",
+  "id": 1594408665,
+  "lat": 50.6074487,
+  "lon": -2.4542536,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Ship Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1595238420,
+  "lat": 50.6066387,
+  "lon": -2.4544953,
+  "tags": {
+    "amenity": "pub",
+    "name": "Kings Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 1595257366,
+  "lat": 50.6198266,
+  "lon": -2.4520560,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Park"
+  }
+},
+{
+  "type": "node",
+  "id": 1595257402,
+  "lat": 50.6187500,
+  "lon": -2.4518667,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Waterloo"
+  }
+},
+{
+  "type": "node",
+  "id": 1595555217,
+  "lat": 50.9536675,
+  "lon": -2.0042672,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Roebuck Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1600306854,
+  "lat": 50.7026580,
+  "lon": -2.7272617,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Three Horseshoes"
+  }
+},
+{
+  "type": "node",
+  "id": 1600306864,
+  "lat": 50.7036228,
+  "lon": -2.7279128,
+  "tags": {
+    "amenity": "pub",
+    "food": "yes",
+    "name": "The Anchor Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1600861097,
+  "lat": 50.6353432,
+  "lon": -2.0889589,
+  "tags": {
+    "amenity": "pub",
+    "name": "The New Inn",
+    "postal_code": "BH20 5NQ"
+  }
+},
+{
+  "type": "node",
+  "id": 1601624158,
+  "lat": 50.6847448,
+  "lon": -2.1091643,
+  "tags": {
+    "amenity": "pub",
+    "name": "Horse and Groom"
+  }
+},
+{
+  "type": "node",
+  "id": 1601624203,
+  "lat": 50.6842822,
+  "lon": -2.1089390,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Quay Inn",
+    "postal_code": "BH20 4LP"
+  }
+},
+{
+  "type": "node",
+  "id": 1601778728,
+  "lat": 50.6384920,
+  "lon": -2.0568500,
+  "tags": {
+    "amenity": "pub",
+    "name": "Bankes Hotel",
+    "phone": "480206",
+    "website": "www.dorset-hotel.co.uk"
+  }
+},
+{
+  "type": "node",
+  "id": 1601778748,
+  "lat": 50.6385655,
+  "lon": -2.0572494,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Greyhound"
+  }
+},
+{
+  "type": "node",
+  "id": 1604658263,
+  "lat": 50.6464678,
+  "lon": -2.4183880,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Spice Ship"
+  }
+},
+{
+  "type": "node",
+  "id": 1604658290,
+  "lat": 50.6476039,
+  "lon": -2.4207805,
+  "tags": {
+    "amenity": "pub",
+    "name": "Bridge Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1605835944,
+  "lat": 50.6520564,
+  "lon": -2.4650130,
+  "tags": {
+    "amenity": "pub",
+    "name": "The New Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1611213935,
+  "lat": 50.6080649,
+  "lon": -1.9562240,
+  "tags": {
+    "amenity": "pub",
+    "name": "Ship Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1611213941,
+  "lat": 50.6080721,
+  "lon": -1.9565829,
+  "tags": {
+    "amenity": "pub",
+    "name": "White Swan"
+  }
+},
+{
+  "type": "node",
+  "id": 1611213944,
+  "lat": 50.6083271,
+  "lon": -1.9569482,
+  "tags": {
+    "amenity": "pub",
+    "name": "Anchor Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1612944054,
+  "lat": 50.7132205,
+  "lon": -2.5446030,
+  "tags": {
+    "amenity": "pub",
+    "name": "Coach & Horses"
+  }
+},
+{
+  "type": "node",
+  "id": 1616167004,
+  "lat": 50.6993781,
+  "lon": -2.5043660,
+  "tags": {
+    "amenity": "pub",
+    "name": "Brewers Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 1617175480,
+  "lat": 50.6700359,
+  "lon": -2.5639866,
+  "tags": {
+    "amenity": "pub",
+    "name": "Kings Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 1620642246,
+  "lat": 50.7915965,
+  "lon": -1.9038830,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Angel"
+  }
+},
+{
+  "type": "node",
+  "id": 1694859715,
+  "lat": 51.0468449,
+  "lon": -2.2799452,
+  "tags": {
+    "addr:postcode": "SP8 4HB",
+    "addr:street": "Peacemarsh",
+    "amenity": "pub",
+    "name": "The Dolphin",
+    "website": "http://www.dolphingillingham.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 1712789022,
+  "lat": 50.7412788,
+  "lon": -2.7026170,
+  "tags": {
+    "amenity": "pub",
+    "name": "Crown Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1712789032,
+  "lat": 50.7625911,
+  "lon": -2.6869128,
+  "tags": {
+    "amenity": "pub",
+    "name": "Three Horseshoes"
+  }
+},
+{
+  "type": "node",
+  "id": 1722713757,
+  "lat": 50.9256930,
+  "lon": -2.3054182,
+  "tags": {
+    "amenity": "pub",
+    "name": "White Hart Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1741558980,
+  "lat": 50.6909824,
+  "lon": -2.6692385,
+  "tags": {
+    "amenity": "pub",
+    "name": "Bull Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1760662954,
+  "lat": 50.8010052,
+  "lon": -1.9883264,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Man in the Wall"
+  }
+},
+{
+  "type": "node",
+  "id": 1769527038,
+  "lat": 50.6769658,
+  "lon": -2.3808890,
+  "tags": {
+    "amenity": "pub",
+    "name": "Black Dog",
+    "wifi": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1806087858,
+  "lat": 50.8828270,
+  "lon": -2.1345879,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Anvil"
+  }
+},
+{
+  "type": "node",
+  "id": 1863693052,
+  "lat": 50.8793536,
+  "lon": -2.3628244,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Antelope Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1863701280,
+  "lat": 50.9266966,
+  "lon": -2.4873670,
+  "tags": {
+    "addr:postcode": "DT9 5JW",
+    "amenity": "pub",
+    "fhrs:id": "319447",
+    "name": "The Three Elms Inn",
+    "source:postcode": "FHRS Open Data",
+    "website": "https://sites.google.com/site/thethreeelmsinn/home"
+  }
+},
+{
+  "type": "node",
+  "id": 1948790783,
+  "lat": 50.7539727,
+  "lon": -2.8531773,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Five Bells Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 1964800763,
+  "lat": 50.7514393,
+  "lon": -1.7005311,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Amberwood"
+  }
+},
+{
+  "type": "node",
+  "id": 2038170611,
+  "lat": 50.8412876,
+  "lon": -2.2354201,
+  "tags": {
+    "addr:city": "Blandford Forum",
+    "addr:housename": "The Crown Inn",
+    "addr:postcode": "DT11 0NJ",
+    "addr:street": "North Street",
+    "amenity": "pub",
+    "name": "The Crown Inn",
+    "phone": "01258 881042",
+    "smoking": "outside",
+    "website": "https://www.facebook.com/thecrownwinterborne"
+  }
+},
+{
+  "type": "node",
+  "id": 2093368126,
+  "lat": 50.8384272,
+  "lon": -2.6072922,
+  "tags": {
+    "amenity": "pub",
+    "name": "Acorn Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 2119762388,
+  "lat": 50.6115130,
+  "lon": -2.4545324,
+  "tags": {
+    "amenity": "pub",
+    "name": "The William Henry",
+    "operator": "wetherspoon",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2119762415,
+  "lat": 50.8265145,
+  "lon": -1.8895411,
+  "tags": {
+    "amenity": "pub",
+    "name": "Tap and Railway"
+  }
+},
+{
+  "type": "node",
+  "id": 2125401450,
+  "lat": 50.9469983,
+  "lon": -2.5156524,
+  "tags": {
+    "addr:postcode": "DT9 3BJ",
+    "addr:street": "Cheap Street",
+    "amenity": "pub",
+    "fhrs:id": "319442",
+    "name": "Cross Keys",
+    "source:addr": "FHRS Open Data"
+  }
+},
+{
+  "type": "node",
+  "id": 2125401681,
+  "lat": 50.9499893,
+  "lon": -2.5172215,
+  "tags": {
+    "addr:postcode": "DT9 3PU",
+    "addr:street": "Cheap Street",
+    "amenity": "pub",
+    "fhrs:id": "318992",
+    "name": "The White Hart",
+    "source:addr": "FHRS Open Data"
+  }
+},
+{
+  "type": "node",
+  "id": 2125403568,
+  "lat": 50.9502563,
+  "lon": -2.5170980,
+  "tags": {
+    "addr:postcode": "DT9 3JD",
+    "addr:street": "Higher Cheap Street",
+    "amenity": "pub",
+    "fhrs:id": "318796",
+    "name": "The George",
+    "source:addr": "FHRS Open Data"
+  }
+},
+{
+  "type": "node",
+  "id": 2140113653,
+  "lat": 50.7331669,
+  "lon": -1.7764326,
+  "tags": {
+    "amenity": "pub",
+    "name": "Thomas Tripp"
+  }
+},
+{
+  "type": "node",
+  "id": 2140113767,
+  "lat": 50.7374617,
+  "lon": -1.7809840,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Royalty Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 2140113868,
+  "lat": 50.7344232,
+  "lon": -1.7768188,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Ship"
+  }
+},
+{
+  "type": "node",
+  "id": 2140113930,
+  "lat": 50.7387757,
+  "lon": -1.7824890,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Railway"
+  }
+},
+{
+  "type": "node",
+  "id": 2174159173,
+  "lat": 50.7418581,
+  "lon": -1.6984791,
+  "tags": {
+    "amenity": "pub",
+    "name": "Napoleons"
+  }
+},
+{
+  "type": "node",
+  "id": 2186855944,
+  "lat": 50.9280312,
+  "lon": -2.3057233,
+  "tags": {
+    "addr:housename": "Sturminster Newton Royal British Legion",
+    "amenity": "pub",
+    "name": "Sturminster Newton Royal British Legion"
+  }
+},
+{
+  "type": "node",
+  "id": 2243279067,
+  "lat": 50.8198891,
+  "lon": -2.7997439,
+  "tags": {
+    "amenity": "pub",
+    "name": "White Lion"
+  }
+},
+{
+  "type": "node",
+  "id": 2243345761,
+  "lat": 50.8390664,
+  "lon": -2.8722193,
+  "tags": {
+    "amenity": "pub",
+    "name": "Squirrel Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 2245520140,
+  "lat": 50.8421039,
+  "lon": -2.8262969,
+  "tags": {
+    "amenity": "pub",
+    "name": "Royal Oak",
+    "website": "http://www.royaloakdrimpton.co.uk"
+  }
+},
+{
+  "type": "node",
+  "id": 2245523559,
+  "lat": 50.8465409,
+  "lon": -2.7709631,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Admiral Hood"
+  }
+},
+{
+  "type": "node",
+  "id": 2245586668,
+  "lat": 50.6081802,
+  "lon": -2.4747994,
+  "tags": {
+    "addr:postcode": "DT4 0QU",
+    "addr:street": "Chickerell Road",
+    "amenity": "pub",
+    "name": "Admiral Hardy",
+    "website": "http://www.admiralhardypub.co.uk/",
+    "wifi": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2271196842,
+  "lat": 50.7258505,
+  "lon": -2.9334652,
+  "tags": {
+    "amenity": "pub",
+    "name": "Ship Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 2298987290,
+  "lat": 50.6102979,
+  "lon": -1.9765629,
+  "tags": {
+    "addr:housename": "The Globe Inn",
+    "addr:housenumber": "3",
+    "addr:postcode": "BH19 2RY",
+    "addr:street": "Bell Street",
+    "amenity": "pub",
+    "name": "The Globe Inn",
+    "website": "http://www.theglobeswanage.co.uk"
+  }
+},
+{
+  "type": "node",
+  "id": 2299937705,
+  "lat": 50.7534079,
+  "lon": -2.2180225,
+  "tags": {
+    "amenity": "pub",
+    "name": "Drax Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 2305085878,
+  "lat": 50.8571775,
+  "lon": -2.1655619,
+  "tags": {
+    "amenity": "pub",
+    "name": "King's Arms Hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2328194841,
+  "lat": 50.7526382,
+  "lon": -2.2166256,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Royal Oak"
+  }
+},
+{
+  "type": "node",
+  "id": 2346372874,
+  "lat": 50.6535469,
+  "lon": -2.4161086,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Springhead",
+    "website": "www.thespringhead.co.uk/",
+    "wifi": "free"
+  }
+},
+{
+  "type": "node",
+  "id": 2368954129,
+  "lat": 50.7122254,
+  "lon": -2.4378951,
+  "tags": {
+    "amenity": "pub",
+    "name": "The George"
+  }
+},
+{
+  "type": "node",
+  "id": 2382823001,
+  "lat": 50.7151021,
+  "lon": -2.4353293,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Blue Raddle",
+    "website": "http://www.blueraddle.co.uk"
+  }
+},
+{
+  "type": "node",
+  "id": 2383727509,
+  "lat": 50.7117688,
+  "lon": -2.4381048,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Junction"
+  }
+},
+{
+  "type": "node",
+  "id": 2422401080,
+  "lat": 50.8423497,
+  "lon": -1.9128382,
+  "tags": {
+    "amenity": "pub",
+    "name": "Cross Keys"
+  }
+},
+{
+  "type": "node",
+  "id": 2422403155,
+  "lat": 50.8351204,
+  "lon": -1.9586235,
+  "tags": {
+    "amenity": "pub",
+    "name": "Old Inn",
+    "source": "Local Knowledge",
+    "wifi": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2434796931,
+  "lat": 50.7266512,
+  "lon": -2.9310414,
+  "tags": {
+    "amenity": "pub",
+    "name": "The London on Lyme"
+  }
+},
+{
+  "type": "node",
+  "id": 2586870722,
+  "lat": 50.6097710,
+  "lon": -2.4539275,
+  "tags": {
+    "amenity": "pub",
+    "name": "Black Dog"
+  }
+},
+{
+  "type": "node",
+  "id": 2600598801,
+  "lat": 50.6163968,
+  "lon": -2.0620345,
+  "tags": {
+    "amenity": "pub",
+    "name": "Scott Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 2601381832,
+  "lat": 50.5586386,
+  "lon": -2.4410255,
+  "tags": {
+    "amenity": "pub",
+    "name": "Britannia Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 2601381840,
+  "lat": 50.6077800,
+  "lon": -2.4541712,
+  "tags": {
+    "amenity": "pub",
+    "name": "Duke of Cornwall"
+  }
+},
+{
+  "type": "node",
+  "id": 2601381847,
+  "lat": 50.5590167,
+  "lon": -2.4418639,
+  "tags": {
+    "amenity": "pub",
+    "name": "Royal Portland Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 2601381851,
+  "lat": 50.6108528,
+  "lon": -2.4543406,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Edinburgh - House of Sound"
+  }
+},
+{
+  "type": "node",
+  "id": 2602450679,
+  "lat": 50.7330969,
+  "lon": -2.7613304,
+  "tags": {
+    "amenity": "pub",
+    "name": "Hope & Anchor",
+    "real_ale": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2602450680,
+  "lat": 50.7371783,
+  "lon": -2.7481568,
+  "tags": {
+    "amenity": "pub",
+    "name": "King Charles Tavern"
+  }
+},
+{
+  "type": "node",
+  "id": 2602450681,
+  "lat": 50.5406715,
+  "lon": -2.4302872,
+  "tags": {
+    "amenity": "pub",
+    "fixme": "I've added this because I drank there 5 years ago - but please someone check if it's still open. thanks",
+    "name": "Mermaid Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 2602450682,
+  "lat": 50.6130246,
+  "lon": -2.4536545,
+  "tags": {
+    "amenity": "pub",
+    "food": "yes",
+    "name": "Moby Dick's",
+    "real_ale": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2602450684,
+  "lat": 50.5606024,
+  "lon": -2.4442808,
+  "tags": {
+    "amenity": "pub",
+    "name": "New Star Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 2602450685,
+  "lat": 50.6094753,
+  "lon": -2.4528368,
+  "tags": {
+    "amenity": "pub",
+    "name": "New Vic"
+  }
+},
+{
+  "type": "node",
+  "id": 2602450688,
+  "lat": 50.7338583,
+  "lon": -2.7591534,
+  "tags": {
+    "amenity": "pub",
+    "name": "Royal Oak"
+  }
+},
+{
+  "type": "node",
+  "id": 2602450689,
+  "lat": 50.7211484,
+  "lon": -2.9390702,
+  "tags": {
+    "amenity": "pub",
+    "name": "Royal Standard"
+  }
+},
+{
+  "type": "node",
+  "id": 2602450692,
+  "lat": 50.7337518,
+  "lon": -2.7544913,
+  "tags": {
+    "amenity": "pub",
+    "name": "Tiger Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 2602450693,
+  "lat": 50.7157639,
+  "lon": -2.4338272,
+  "tags": {
+    "amenity": "pub",
+    "name": "Tom Browns"
+  }
+},
+{
+  "type": "node",
+  "id": 2602450697,
+  "lat": 50.5466683,
+  "lon": -2.4358389,
+  "tags": {
+    "amenity": "pub",
+    "name": "punch Bowl Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 2623453011,
+  "lat": 50.8240767,
+  "lon": -1.8879381,
+  "tags": {
+    "amenity": "pub",
+    "name": "Elephant and Castle"
+  }
+},
+{
+  "type": "node",
+  "id": 2675736804,
+  "lat": 50.9139880,
+  "lon": -2.2366893,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Bakers Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 2826701777,
+  "lat": 50.7342127,
+  "lon": -2.7630217,
+  "tags": {
+    "amenity": "pub",
+    "name": "Tanners"
+  }
+},
+{
+  "type": "node",
+  "id": 3012524408,
+  "lat": 50.7337391,
+  "lon": -2.7602217,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Ropemakers"
+  }
+},
+{
+  "type": "node",
+  "id": 3056386636,
+  "lat": 50.9082057,
+  "lon": -1.9604774,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Bull Inn",
+    "website": "http://www.bullinnwsg.com"
+  }
+},
+{
+  "type": "node",
+  "id": 3056417799,
+  "lat": 50.8949062,
+  "lon": -1.9978781,
+  "tags": {
+    "addr:postcode": "BH21 5ET",
+    "amenity": "pub",
+    "name": "The Drovers Inn",
+    "phone": "+44 1258 840084",
+    "real_ale": "3",
+    "real_fire": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3056421692,
+  "lat": 50.9225004,
+  "lon": -2.0367865,
+  "tags": {
+    "amenity": "pub",
+    "name": "Cashmoor Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 3182796119,
+  "lat": 50.7213613,
+  "lon": -2.7154452,
+  "tags": {
+    "amenity": "pub",
+    "name": "The New Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 3258473812,
+  "lat": 50.9838498,
+  "lon": -2.5347487,
+  "tags": {
+    "addr:city": "Sherborne",
+    "addr:housename": "The Mitre Inn",
+    "addr:postcode": "DT9 4RU",
+    "addr:street": "Sandford Orcas",
+    "amenity": "pub",
+    "name": "The Mitre Inn",
+    "phone": "01963 220271",
+    "smoking": "outside",
+    "website": "https://www.mitreinn.co.uk"
+  }
+},
+{
+  "type": "node",
+  "id": 3282111715,
+  "lat": 50.6100813,
+  "lon": -2.4530233,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Dorothy Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 3282111716,
+  "lat": 50.6087814,
+  "lon": -2.4545498,
+  "tags": {
+    "amenity": "pub",
+    "name": "Wellington Arms"
+  }
+},
+{
+  "type": "node",
+  "id": 3491286974,
+  "lat": 50.6957981,
+  "lon": -2.6594218,
+  "tags": {
+    "addr:postcode": "DT2 9BN",
+    "addr:street": "Church Street",
+    "amenity": "pub",
+    "name": "The Crown Inn",
+    "phone": "+44 1308 897711",
+    "website": "http://www.thecrowninndorset.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 3586792756,
+  "lat": 50.8073784,
+  "lon": -1.9035726,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Pure Drop",
+    "website": "http://www.puredropferndownpub.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 3635133963,
+  "lat": 50.6790009,
+  "lon": -2.6614527,
+  "tags": {
+    "addr:postcode": "DT2 9DF",
+    "amenity": "pub",
+    "name": "The Manor House",
+    "tourism": "hotel",
+    "website": "http://www.manorhoteldorset.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3723543213,
+  "lat": 50.7514348,
+  "lon": -2.3463388,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Blue Vinny",
+    "website": "http://www.thebluevinny.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 3766348789,
+  "lat": 50.6851052,
+  "lon": -2.1098402,
+  "tags": {
+    "accommodation": "yes",
+    "amenity": "pub",
+    "food": "yes",
+    "name": "Black Bear",
+    "real_ale": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3766348800,
+  "lat": 50.9513568,
+  "lon": -2.1902589,
+  "tags": {
+    "amenity": "pub",
+    "name": "The Fontmell"
+  }
+}
+
+  ]
+}
