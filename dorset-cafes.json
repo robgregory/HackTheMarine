@@ -1,0 +1,1039 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2016-01-16T15:02:01Z",
+    "timestamp_areas_base": "2015-12-18T10:35:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 252228661,
+  "lat": 50.6518621,
+  "lon": -1.9539037,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Knoll Beach Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 264103142,
+  "lat": 50.8084087,
+  "lon": -2.0151824,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Pamphill Dairy"
+  }
+},
+{
+  "type": "node",
+  "id": 278860999,
+  "lat": 50.7955585,
+  "lon": -2.2246165,
+  "tags": {
+    "amenity": "cafe",
+    "created_by": "JOSM"
+  }
+},
+{
+  "type": "node",
+  "id": 304693342,
+  "lat": 50.8113555,
+  "lon": -2.0331955,
+  "tags": {
+    "addr:postcode": "BH214EA",
+    "amenity": "cafe",
+    "email": "Kingstonlacy@nationaltrust.org.uk",
+    "name": "Kingston Lacy",
+    "phone": "+44 1202 883402",
+    "website": "http://www.nationaltrust.org.uk/kingston-lacy/"
+  }
+},
+{
+  "type": "node",
+  "id": 306208355,
+  "lat": 50.7340546,
+  "lon": -1.7767351,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Kelly's Kitchen Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 312805669,
+  "lat": 50.7348322,
+  "lon": -1.7784441,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Wishes Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 373799208,
+  "lat": 50.6181450,
+  "lon": -2.1192042,
+  "tags": {
+    "addr:housename": "Clavell's",
+    "addr:postcode": "BH20 5PE",
+    "amenity": "cafe",
+    "name": "Clavell's Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 385077752,
+  "lat": 50.6595071,
+  "lon": -2.6007361,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Abbotsbury Swannery"
+  }
+},
+{
+  "type": "node",
+  "id": 385447500,
+  "lat": 50.6973140,
+  "lon": -2.2169714,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Monkey World Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 471968752,
+  "lat": 50.8585685,
+  "lon": -2.0168846,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Witchampton Village shop & coffee bar",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 471969192,
+  "lat": 50.8027026,
+  "lon": -2.0522237,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Barford Farm House (icecream)"
+  }
+},
+{
+  "type": "node",
+  "id": 482558390,
+  "lat": 50.6429413,
+  "lon": -1.9448343,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Joe's Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 501567516,
+  "lat": 50.9586961,
+  "lon": -2.3786659,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 503501651,
+  "lat": 50.9270184,
+  "lon": -2.3042882,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Poets Corner"
+  }
+},
+{
+  "type": "node",
+  "id": 534328209,
+  "lat": 50.9465218,
+  "lon": -2.5154018,
+  "tags": {
+    "addr:postcode": "DT9 3LN",
+    "addr:street": "Half Moon Street",
+    "amenity": "cafe",
+    "fhrs:id": "318732",
+    "name": "The Pear Tree",
+    "source:addr": "FHRS Open Data"
+  }
+},
+{
+  "type": "node",
+  "id": 588165429,
+  "lat": 50.5148783,
+  "lon": -2.4556408,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 673217562,
+  "lat": 50.6091296,
+  "lon": -1.9565721,
+  "tags": {
+    "amenity": "cafe",
+    "food": "yes",
+    "seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 768170975,
+  "lat": 50.7018891,
+  "lon": -2.2423561,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Community Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 842114950,
+  "lat": 50.7333977,
+  "lon": -1.7758150,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Remo",
+    "source": "local_knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 842114965,
+  "lat": 50.7337627,
+  "lon": -1.7749729,
+  "tags": {
+    "addr:city": "Christchurch",
+    "addr:country": "GB",
+    "addr:housenumber": "11",
+    "addr:postcode": "BH23 1DP",
+    "addr:street": "Castle Street",
+    "amenity": "cafe",
+    "name": "New Forest Perfumery",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 845434841,
+  "lat": 51.0031444,
+  "lon": -2.3014623,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Riverside cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1184431735,
+  "lat": 50.8004018,
+  "lon": -1.9876349,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Costa Coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 1217743069,
+  "lat": 50.7335026,
+  "lon": -2.9019599,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1340961680,
+  "lat": 50.7337577,
+  "lon": -1.7762635,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Arcado Lounge"
+  }
+},
+{
+  "type": "node",
+  "id": 1340961682,
+  "lat": 50.7343840,
+  "lon": -1.7772474,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Baggies Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1397303132,
+  "lat": 50.7349272,
+  "lon": -1.7771293,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Costa",
+    "wheelchair": "yes",
+    "wheelchair:description": "Disabled toilet"
+  }
+},
+{
+  "type": "node",
+  "id": 1445768464,
+  "lat": 50.7265293,
+  "lon": -2.7779314,
+  "tags": {
+    "amenity": "cafe",
+    "source": "visit"
+  }
+},
+{
+  "type": "node",
+  "id": 1569733676,
+  "lat": 50.7217161,
+  "lon": -2.9386417,
+  "tags": {
+    "amenity": "cafe",
+    "food": "yes",
+    "name": "Jane's cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1583389097,
+  "lat": 50.8751774,
+  "lon": -2.1576168,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Oli & Nic's"
+  }
+},
+{
+  "type": "node",
+  "id": 1583971535,
+  "lat": 51.0059524,
+  "lon": -2.2767674,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Udder Farm Coffee Shop"
+  }
+},
+{
+  "type": "node",
+  "id": 1588863582,
+  "lat": 50.9440926,
+  "lon": -2.5129911,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Station Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1593556991,
+  "lat": 50.6062849,
+  "lon": -2.4525380,
+  "tags": {
+    "amenity": "cafe",
+    "name": "The Ivy Coffee House"
+  }
+},
+{
+  "type": "node",
+  "id": 1596873757,
+  "lat": 50.6458535,
+  "lon": -2.4403281,
+  "tags": {
+    "amenity": "cafe",
+    "internet_access": "wlan",
+    "name": "The Shed Cafe",
+    "operator": "Goulds",
+    "postal_code": "DT3 6AD",
+    "smoking": "outside",
+    "website": "http://www.gouldsstores.co.uk/java-cafe/77/"
+  }
+},
+{
+  "type": "node",
+  "id": 1598254002,
+  "lat": 50.5960734,
+  "lon": -2.4612412,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1600589352,
+  "lat": 50.6970222,
+  "lon": -2.7221532,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Hive Beach Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1606992763,
+  "lat": 50.5578091,
+  "lon": -2.4477130,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Quiddles"
+  }
+},
+{
+  "type": "node",
+  "id": 1620644037,
+  "lat": 50.8034066,
+  "lon": -1.8889884,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1645654524,
+  "lat": 50.6194748,
+  "lon": -2.2508754,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Dandelion Café",
+    "operator": "HF Holidays"
+  }
+},
+{
+  "type": "node",
+  "id": 1705408068,
+  "lat": 50.7135858,
+  "lon": -2.4419988,
+  "tags": {
+    "amenity": "cafe",
+    "name": "The Oasis",
+    "source": "local_knowledge",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1718180519,
+  "lat": 50.6324017,
+  "lon": -2.3530372,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1722721418,
+  "lat": 50.9041334,
+  "lon": -2.2506089,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Old Shillingstone Station Cafe",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 1738433271,
+  "lat": 50.6663332,
+  "lon": -2.6007737,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Bellenies Bakehouse & Tea Room"
+  }
+},
+{
+  "type": "node",
+  "id": 1757466931,
+  "lat": 50.6666125,
+  "lon": -2.6003312,
+  "tags": {
+    "amenity": "cafe",
+    "name": "The Old Schoolhouse Tea Rooms"
+  }
+},
+{
+  "type": "node",
+  "id": 1806132124,
+  "lat": 50.9085890,
+  "lon": -2.1190845,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Home Farm Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1962923410,
+  "lat": 50.6360452,
+  "lon": -2.4285561,
+  "tags": {
+    "addr:housename": "The Lookout Cafe",
+    "addr:postcode": "DT3 6PL",
+    "addr:street": "Bowleaze Coveway",
+    "amenity": "cafe",
+    "cuisine": "regional",
+    "name": "The Lookout Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1988640809,
+  "lat": 50.7241557,
+  "lon": -1.7416158,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Haven Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1988641065,
+  "lat": 50.7283003,
+  "lon": -1.7428456,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Avonmouth Bakery Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1988917081,
+  "lat": 50.5950814,
+  "lon": -1.9532033,
+  "tags": {
+    "amenity": "cafe",
+    "layer": "0"
+  }
+},
+{
+  "type": "node",
+  "id": 1989472221,
+  "lat": 50.7382400,
+  "lon": -1.6949423,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Cliffhanger Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 2140113604,
+  "lat": 50.7337339,
+  "lon": -1.7751612,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "sandwich",
+    "name": "Bonny's"
+  }
+},
+{
+  "type": "node",
+  "id": 2140113614,
+  "lat": 50.7332925,
+  "lon": -1.7754563,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Soho"
+  }
+},
+{
+  "type": "node",
+  "id": 2140113681,
+  "lat": 50.7355250,
+  "lon": -1.7782538,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Inside Out Coffee Co"
+  }
+},
+{
+  "type": "node",
+  "id": 2140113780,
+  "lat": 50.7348323,
+  "lon": -1.7772855,
+  "tags": {
+    "amenity": "cafe",
+    "name": "The Cornish Pasty Company"
+  }
+},
+{
+  "type": "node",
+  "id": 2140113838,
+  "lat": 50.7340055,
+  "lon": -1.7761885,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Coast Coffee",
+    "wheelchair": "limited",
+    "wheelchair:description": "Step up into premises - ramp available on request"
+  }
+},
+{
+  "type": "node",
+  "id": 2140113851,
+  "lat": 50.7350021,
+  "lon": -1.7777147,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Caffe Nero",
+    "wheelchair": "yes",
+    "wheelchair:description": "& disabled toilet"
+  }
+},
+{
+  "type": "node",
+  "id": 2140113931,
+  "lat": 50.7379880,
+  "lon": -1.7815476,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Sara's Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 2140114112,
+  "lat": 50.7363125,
+  "lon": -1.7797424,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "The Coffee Pot"
+  }
+},
+{
+  "type": "node",
+  "id": 2174158949,
+  "lat": 50.7420364,
+  "lon": -1.6968242,
+  "tags": {
+    "amenity": "cafe",
+    "name": "The Scullery"
+  }
+},
+{
+  "type": "node",
+  "id": 2174159109,
+  "lat": 50.7414882,
+  "lon": -1.6998551,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Tulips"
+  }
+},
+{
+  "type": "node",
+  "id": 2203519520,
+  "lat": 50.5817549,
+  "lon": -2.4699737,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 2203864145,
+  "lat": 50.7293504,
+  "lon": -1.7342172,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Avon Beach Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 2264276267,
+  "lat": 50.8425277,
+  "lon": -1.8101666,
+  "tags": {
+    "amenity": "cafe",
+    "name": "The Lantern Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 2299902573,
+  "lat": 50.7235526,
+  "lon": -2.3859424,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Tea"
+  }
+},
+{
+  "type": "node",
+  "id": 2311291328,
+  "lat": 50.7095079,
+  "lon": -2.4373339,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Costa"
+  }
+},
+{
+  "type": "node",
+  "id": 2413912749,
+  "lat": 50.7403597,
+  "lon": -1.7930344,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Baileys"
+  }
+},
+{
+  "type": "node",
+  "id": 2435874157,
+  "lat": 50.7245365,
+  "lon": -2.9336727,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Bell Cliff Restaurant & Tea Rooms"
+  }
+},
+{
+  "type": "node",
+  "id": 2435874171,
+  "lat": 50.7243566,
+  "lon": -2.9334972,
+  "tags": {
+    "amenity": "cafe",
+    "name": "The Old Boathouse"
+  }
+},
+{
+  "type": "node",
+  "id": 2521950072,
+  "lat": 50.5955993,
+  "lon": -1.9572118,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 2541056875,
+  "lat": 51.0059800,
+  "lon": -2.1979413,
+  "tags": {
+    "addr:housenumber": "9",
+    "addr:postcode": "SP7 8HZ",
+    "addr:street": "High Street",
+    "amenity": "cafe",
+    "name": "Turnbulls",
+    "phone": "+44 1747 858575",
+    "shop": "deli",
+    "website": "http://turnbulls-deli.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 2549223494,
+  "lat": 51.0055940,
+  "lon": -2.1970677,
+  "tags": {
+    "addr:housenumber": "2-4",
+    "addr:interpolation": "even",
+    "addr:street": "Gold Hill",
+    "amenity": "cafe",
+    "name": "The Salt Cellar"
+  }
+},
+{
+  "type": "node",
+  "id": 2549307826,
+  "lat": 51.0055974,
+  "lon": -2.1974647,
+  "tags": {
+    "addr:housenumber": "21",
+    "addr:postcode": "SP7 8JE",
+    "addr:street": "High Street",
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Costa Coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 2551415683,
+  "lat": 50.6654076,
+  "lon": -2.4807295,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Upwey Wishing Well Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 2556415838,
+  "lat": 51.0370930,
+  "lon": -2.2725592,
+  "tags": {
+    "addr:street": "High Street",
+    "amenity": "cafe",
+    "name": "Costa Coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 2623433457,
+  "lat": 50.8155279,
+  "lon": -1.8705077,
+  "tags": {
+    "addr:housenumber": "150",
+    "addr:street": "Pinehurst Road",
+    "amenity": "cafe",
+    "name": "Pandora's Bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 2796168355,
+  "lat": 50.6100475,
+  "lon": -1.9598152,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Birds Nest Buffet"
+  }
+},
+{
+  "type": "node",
+  "id": 2802347492,
+  "lat": 50.5968049,
+  "lon": -2.0387802,
+  "tags": {
+    "addr:city": "Swanage",
+    "addr:place": "Worth Matravers",
+    "addr:postcode": "BH19 3LQ",
+    "amenity": "cafe",
+    "name": "Worth Matravers Tea & Supper Room",
+    "website": "http://www.worthmatraverstearoom.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 2957114253,
+  "lat": 50.6163827,
+  "lon": -2.4949318,
+  "tags": {
+    "addr:housename": "Bennetts Water Gardens",
+    "addr:postcode": "DT3 4AF",
+    "addr:street": "Putton Lane",
+    "amenity": "cafe",
+    "name": "Cafe Monet",
+    "smoking": "outside",
+    "website": "http://www.cafemonet.co.uk",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2986828159,
+  "lat": 50.7894259,
+  "lon": -2.0129724,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 3054017385,
+  "lat": 50.7310653,
+  "lon": -2.7581363,
+  "tags": {
+    "addr:city": "Bridport",
+    "addr:housename": "Soulshine",
+    "addr:housenumber": "76",
+    "addr:postcode": "DT6 3NN",
+    "addr:street": "South Street",
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "internet_access": "yes",
+    "name": "Soulshine"
+  }
+},
+{
+  "type": "node",
+  "id": 3054026470,
+  "lat": 50.7333642,
+  "lon": -2.7575127,
+  "tags": {
+    "addr:city": "Bridport",
+    "addr:housename": "Number Ten Cafe",
+    "addr:housenumber": "10",
+    "addr:postcode": "DT6 3LF",
+    "addr:street": "East Street",
+    "amenity": "cafe",
+    "cuisine": "coffee_shop"
+  }
+},
+{
+  "type": "node",
+  "id": 3054040066,
+  "lat": 50.7312727,
+  "lon": -2.7577916,
+  "tags": {
+    "addr:city": "Bridport",
+    "addr:housename": "The Coffee Bean",
+    "addr:housenumber": "41",
+    "addr:postcode": "DT6 3NY",
+    "addr:street": "South Street",
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "The Coffee Bean",
+    "opening_hours": "Monday –Friday 9.00-16.00. Saturday 8.30-16.00. Closed Thursday and Sunday"
+  }
+},
+{
+  "type": "node",
+  "id": 3054049497,
+  "lat": 50.7461577,
+  "lon": -2.7660216,
+  "tags": {
+    "addr:city": "Bridport",
+    "addr:housename": "Washingpool Farm",
+    "addr:postcode": "DT6 5HP",
+    "addr:street": "Dottery Road",
+    "amenity": "cafe",
+    "cuisine": "regional",
+    "name": "The Farmers' Kitchen, Washingpool Farm",
+    "opening_hours": "Monday – Saturday     8.30am – 4.30pm Sunday and Bank Holidays     10.00am – 4.00pm"
+  }
+},
+{
+  "type": "node",
+  "id": 3054062350,
+  "lat": 50.7340131,
+  "lon": -2.7602168,
+  "tags": {
+    "addr:city": "Bridport",
+    "addr:housename": "Costa Coffee",
+    "addr:housenumber": "35",
+    "addr:postcode": "DT6 3QW",
+    "addr:street": "West Street",
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "internet_access": "yes",
+    "name": "Costa Coffee",
+    "opening_hours": "Monday 7:30 am – 6:00 pm Tuesday 7:30 am – 6:00 pm Wednesday 7:30 am – 6:00 pm Thursday 7:30 am – 6:00 pm Friday 7:30 am – 6:00 pm Saturday 7:30 am – 6:00 pm Sunday 9:00 am – 5:00 pm"
+  }
+},
+{
+  "type": "node",
+  "id": 3054070502,
+  "lat": 50.7333857,
+  "lon": -2.7555313,
+  "tags": {
+    "addr:city": "Bridport",
+    "addr:housename": "Lula",
+    "addr:housenumber": "53",
+    "addr:postcode": "DT6 3JX",
+    "addr:street": "East Street",
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Lula"
+  }
+},
+{
+  "type": "node",
+  "id": 3282111710,
+  "lat": 50.6159543,
+  "lon": -2.4522845,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Cafe123"
+  }
+},
+{
+  "type": "node",
+  "id": 3282111714,
+  "lat": 50.6177827,
+  "lon": -2.4508792,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Hamiltons Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 3468935628,
+  "lat": 50.6386034,
+  "lon": -2.0578008,
+  "tags": {
+    "amenity": "cafe",
+    "operator": "National Trust"
+  }
+},
+{
+  "type": "node",
+  "id": 3635133961,
+  "lat": 50.6763366,
+  "lon": -2.6648319,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Blue Anchor"
+  }
+},
+{
+  "type": "node",
+  "id": 3688115119,
+  "lat": 50.6372659,
+  "lon": -2.2008532,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Past & Present - Tea Room",
+    "phone": "+44 01929 400637",
+    "website": "www.pastandpresents.co.uk"
+  }
+},
+{
+  "type": "node",
+  "id": 3766348794,
+  "lat": 50.6856649,
+  "lon": -2.1091939,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Kaffs Coffee Pot"
+  }
+},
+{
+  "type": "node",
+  "id": 3766348796,
+  "lat": 50.6850623,
+  "lon": -2.1094504,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Newbie Crumb Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 3766348797,
+  "lat": 50.6847200,
+  "lon": -2.1097312,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Not Just Sundaes"
+  }
+}
+
+  ]
+}
