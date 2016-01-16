@@ -1,0 +1,4 @@
+Port,PortID,Latitude,Longitude,Low1,,High1,,Low2,,High2,,Date,Source
+Portland,,50.5666944,-2.4333056,03:30,0.45,10:50,1.83,16:08,0.38,23:20,1.65,16/01/2016,https://www.tidetimes.org.uk/portland-tide-times
+Chesil Cove,,50.5666944,-2.4666944,03:54,1.23,10:48,3.75,16:32,1.29,23:17,3.52,16/01/2016,https://www.tidetimes.org.uk/chesil-cove-tide-times
+Chesil Beach,,50.6166944,-2.55,04:00,0.9,14:09,3.58,16:34,0.9,23:31,3.31,16/01/2016,https://www.tidetimes.org.uk/chesil-beach-tide-times
